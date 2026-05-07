@@ -5,6 +5,14 @@ Built using core PHP, MySQL, JavaScript, HTML, and CSS without frameworks.
 
 ---
 
+## Live Demo
+
+🔗 https://phpmarketplaceapp.page.gd/
+
+> Note: This project was primarily focused on backend architecture, workflow logic, authentication, and marketplace functionality rather than advanced frontend/UI design. Most features require account signup/login to fully access and test the system.
+
+---
+
 ## Features
 
 - User authentication system
